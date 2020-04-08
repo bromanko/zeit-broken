@@ -1,7 +1,7 @@
 {
 "trailingSlash": false,
 "functions": {
-"api/feed.js": {
+"pages/api/feed.js": {
 "includeFiles": "_posts/**"
 }
 }
